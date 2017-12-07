@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81822" started-at="2017-12-07T09:44:19Z" finished-at="2017-12-07T09:45:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81822" started-at="2017-12-07T09:44:19Z" finished-at="2017-12-07T09:45:41Z">
+      <class name="automationFramework.DeltaCom">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.DeltaCom@7113b13f]" name="beforeMethod" is-config="true" duration-ms="24732" started-at="2017-12-07T12:44:19Z" finished-at="2017-12-07T12:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DeltaComTests()[pri:0, instance:automationFramework.DeltaCom@7113b13f]" name="DeltaComTests" duration-ms="54997" started-at="2017-12-07T12:44:44Z" finished-at="2017-12-07T12:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeltaComTests -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.DeltaCom@7113b13f]" name="afterMethod" is-config="true" duration-ms="1951" started-at="2017-12-07T12:45:39Z" finished-at="2017-12-07T12:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.DeltaCom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
